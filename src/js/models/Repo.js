@@ -1,4 +1,4 @@
-class Repo {
+export default class Repo {
   constructor(repoUrl) {
     this.repoUrl = repoUrl;
   }
@@ -12,5 +12,3 @@ class Repo {
     }
   }
 }
-
-export { Repo };

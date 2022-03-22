@@ -1,4 +1,4 @@
-class User {
+export default class User {
   constructor(user) {
     this.user = user;
   }
@@ -21,5 +21,3 @@ class User {
     }
   }
 }
-
-export { User };

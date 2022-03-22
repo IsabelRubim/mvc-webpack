@@ -1,10 +1,12 @@
-import { User } from "./models/User.js";
-import { Repo } from "./models/Repo.js";
+import User from "./models/User.js";
+import Repo from "./models/Repo.js";
 
 import * as userView from "./views/userView.js";
 import * as repoView from "./views/repoView.js";
 
 import { clearUI, elements } from "./views/base.js";
+
+import "../css/styles.css";
 
 const state = {};
 

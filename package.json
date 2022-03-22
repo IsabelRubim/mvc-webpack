@@ -1,0 +1,33 @@
+{
+  "name": "mvc-webpack",
+  "version": "1.0.0",
+  "description": "A guide to implementing webpack",
+  "private": true,
+  "scripts": {
+    "build": "webpack --mode production",
+    "start": "webpack-dev-server --mode development --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsabelRubim/mvc.git"
+  },
+  "author": "Isabel Rubim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IsabelRubim/mvc/issues"
+  },
+  "homepage": "https://github.com/IsabelRubim/mvc#readme",
+  "devDependencies": {
+    "@babel/core": "^7.17.0",
+    "@babel/preset-env": "^7.16.11",
+    "css-loader": "^6.5.1",
+    "html-webpack-plugin": "^5.5.0",
+    "mini-css-extract-plugin": "^2.4.5",
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.6.0"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1"
+  }
+}

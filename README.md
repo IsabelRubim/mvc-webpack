@@ -1,9 +1,10 @@
-# 🧮 MVC
+# 🧮 MVC com Webpack
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
 
-Simples GitHub App em JavaScript
+Simples GitHub App em JavaScript com Webpack
 
-### [Ler o tutorial](https://www.isarubim.com/construindo-um-simples-projeto-mvc-do-zero-com-javascript) | [Ver demonstração]()
+### [Ler o tutorial]() | [Ver demonstração]()
 
 ## Autora
 
