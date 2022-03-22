@@ -4,7 +4,7 @@
 
 Simples GitHub App em JavaScript com Webpack
 
-### [Ler o tutorial]() | [Ver demonstração]()
+### [Ler o tutorial](https://www.isarubim.com/posts/implementando-webpack-em-um-projeto-mvc-com-javascript) | [Ver demonstração](https://mvc-webpack.netlify.app/)
 
 ## Autora
 
